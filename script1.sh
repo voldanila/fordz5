@@ -7,3 +7,6 @@ ssh root@84.201.152.71 "find /tmp -mtime +7 -name 'file*.txt' -delete"
 
 11
 1111
+
+
+1111
